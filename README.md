@@ -3,11 +3,12 @@ LAYOUT & BASIC WIDGETS
 ====================================
 ZAMZAMI SATRIA TEGAR | F1D02310029
 
-<img width="73" height="160" alt="isian sukses" src="https://github.com/user-attachments/assets/9865e451-a7e4-45b5-ba0c-37632eda0079" />
+<img width="738" height="1600" alt="form sebelum pengisian" src="https://github.com/user-attachments/assets/a80e1042-00ef-48b8-9d86-56269572d35b" />
 
-<img width="73" height="160" alt="validasi ketika isian kosong" src="https://github.com/user-attachments/assets/69b8aca5-6464-451b-ad25-90ea4cdf739a" />
+<img width="738" height="1600" alt="validasi ketika isian kosong" src="https://github.com/user-attachments/assets/caece3a8-b8ba-4b74-a98e-d1b420d7d1d1" />
 
-<img width="73" height="160" alt="form sebelum pengisian" src="https://github.com/user-attachments/assets/77ed0d5d-42e8-4f29-9fdb-e86ba9164be0" />
+<img width="738" height="1600" alt="isian sukses" src="https://github.com/user-attachments/assets/8d88d1d0-2be1-4fc0-98ce-2c10afe2d09c" />
+
 
 
 
